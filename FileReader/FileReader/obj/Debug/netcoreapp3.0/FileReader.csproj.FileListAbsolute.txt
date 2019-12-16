@@ -1,0 +1,11 @@
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.exe
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.deps.json
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.runtimeconfig.json
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.runtimeconfig.dev.json
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.dll
+C:\development\projects\asp-net-test\FileReader\FileReader\bin\Debug\netcoreapp3.0\FileReader.pdb
+C:\development\projects\asp-net-test\FileReader\FileReader\obj\Debug\netcoreapp3.0\FileReader.csprojAssemblyReference.cache
+C:\development\projects\asp-net-test\FileReader\FileReader\obj\Debug\netcoreapp3.0\FileReader.AssemblyInfoInputs.cache
+C:\development\projects\asp-net-test\FileReader\FileReader\obj\Debug\netcoreapp3.0\FileReader.AssemblyInfo.cs
+C:\development\projects\asp-net-test\FileReader\FileReader\obj\Debug\netcoreapp3.0\FileReader.dll
+C:\development\projects\asp-net-test\FileReader\FileReader\obj\Debug\netcoreapp3.0\FileReader.pdb

@@ -1,0 +1,11 @@
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.exe
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.deps.json
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.runtimeconfig.json
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.runtimeconfig.dev.json
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.dll
+C:\development\projects\asp-net-test\WebApiClient\bin\Debug\netcoreapp3.0\WebApiClient.pdb
+C:\development\projects\asp-net-test\WebApiClient\obj\Debug\netcoreapp3.0\WebApiClient.csprojAssemblyReference.cache
+C:\development\projects\asp-net-test\WebApiClient\obj\Debug\netcoreapp3.0\WebApiClient.AssemblyInfoInputs.cache
+C:\development\projects\asp-net-test\WebApiClient\obj\Debug\netcoreapp3.0\WebApiClient.AssemblyInfo.cs
+C:\development\projects\asp-net-test\WebApiClient\obj\Debug\netcoreapp3.0\WebApiClient.dll
+C:\development\projects\asp-net-test\WebApiClient\obj\Debug\netcoreapp3.0\WebApiClient.pdb

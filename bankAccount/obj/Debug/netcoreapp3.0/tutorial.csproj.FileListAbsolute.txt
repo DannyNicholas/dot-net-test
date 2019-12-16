@@ -1,0 +1,11 @@
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.exe
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.deps.json
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.runtimeconfig.json
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.runtimeconfig.dev.json
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.dll
+C:\development\projects\asp-net-test\tutorial\bin\Debug\netcoreapp3.0\tutorial.pdb
+C:\development\projects\asp-net-test\tutorial\obj\Debug\netcoreapp3.0\tutorial.csprojAssemblyReference.cache
+C:\development\projects\asp-net-test\tutorial\obj\Debug\netcoreapp3.0\tutorial.AssemblyInfoInputs.cache
+C:\development\projects\asp-net-test\tutorial\obj\Debug\netcoreapp3.0\tutorial.AssemblyInfo.cs
+C:\development\projects\asp-net-test\tutorial\obj\Debug\netcoreapp3.0\tutorial.dll
+C:\development\projects\asp-net-test\tutorial\obj\Debug\netcoreapp3.0\tutorial.pdb

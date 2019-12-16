@@ -1,0 +1,11 @@
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.exe
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.deps.json
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.runtimeconfig.json
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.runtimeconfig.dev.json
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.dll
+C:\development\projects\asp-net-test\Shuffle\Shuffle\bin\Debug\netcoreapp3.0\Shuffle.pdb
+C:\development\projects\asp-net-test\Shuffle\Shuffle\obj\Debug\netcoreapp3.0\Shuffle.csprojAssemblyReference.cache
+C:\development\projects\asp-net-test\Shuffle\Shuffle\obj\Debug\netcoreapp3.0\Shuffle.AssemblyInfoInputs.cache
+C:\development\projects\asp-net-test\Shuffle\Shuffle\obj\Debug\netcoreapp3.0\Shuffle.AssemblyInfo.cs
+C:\development\projects\asp-net-test\Shuffle\Shuffle\obj\Debug\netcoreapp3.0\Shuffle.dll
+C:\development\projects\asp-net-test\Shuffle\Shuffle\obj\Debug\netcoreapp3.0\Shuffle.pdb
